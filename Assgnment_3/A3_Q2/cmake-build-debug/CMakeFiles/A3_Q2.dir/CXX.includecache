@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/daima/2372/Assgnment_3/A3_Q2/Organization.h
+iostream
+-
+string
+-
+stdlib.h
+-
+Person.h
+E:/daima/2372/Assgnment_3/A3_Q2/Person.h
+
+E:/daima/2372/Assgnment_3/A3_Q2/Person.h
+iostream
+-
+string
+-
+stdlib.h
+-
+vector
+-
+
+E:/daima/2372/Assgnment_3/A3_Q2/University.h
+Organization.h
+E:/daima/2372/Assgnment_3/A3_Q2/Organization.h
+
+E:/daima/2372/Assgnment_3/A3_Q2/main.cpp
+Person.h
+E:/daima/2372/Assgnment_3/A3_Q2/Person.h
+Organization.h
+E:/daima/2372/Assgnment_3/A3_Q2/Organization.h
+university.h
+E:/daima/2372/Assgnment_3/A3_Q2/University.h
+

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/daima/2372/2372_Project/Bank.h
+iostream
+-
+fstream
+-
+cstring
+-
+stdlib.h
+-
+iomanip
+-
+
+E:/daima/2372/2372_Project/main.cpp
+iostream
+-
+stdio.h
+-
+fstream
+-
+cstring
+-
+stdlib.h
+-
+iomanip
+-
+chrono
+-
+Bank.h
+E:/daima/2372/2372_Project/Bank.h
+
